@@ -9,16 +9,10 @@ dependencies:
   # Core scientific python
   - numpy
   - matplotlib
-  - psycopg2
-  - bokeh
-  - cufflinks-py
   - pyqt
   - seaborn
   - tqdm
   - kiwisolver
-  - plotly=3.10.0
-  - holoviews
-  - cairosvg
 
   # Spatial packages
   - rasterstats
